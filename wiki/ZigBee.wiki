@@ -4,7 +4,7 @@ Zigbee是基于IEEE802.15.4标准的低功耗个域网协议。根据这个协�
 
 =详细=
 
-http://en.wikipedia.org/wiki/ZigBee
+http://zh.wikipedia.org/wiki/ZigBee
 
 =相关=
 
